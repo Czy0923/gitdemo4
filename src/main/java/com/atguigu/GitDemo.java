@@ -8,6 +8,7 @@ public class GitDemo {
         System.out.println("Hello Git4 + master");
         System.out.println("Hello Git5 + hot-fix");
         System.out.println("Hello Git6 + master + hot-fix");
+        System.out.println("Hello Git7 + hot-fix");
 
     }
 }
