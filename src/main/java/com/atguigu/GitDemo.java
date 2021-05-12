@@ -11,6 +11,7 @@ public class GitDemo {
         System.out.println("Hello Git7 + hot-fix");
         System.out.println("Hello Git8");
         System.out.println("test push git");
+        System.out.println("test push git mergoweb");
 
 
     }
